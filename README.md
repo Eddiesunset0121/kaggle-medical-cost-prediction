@@ -1,4 +1,4 @@
-# Project 2: Medical Cost Prediction: Multiple Linear Regression
+# Project 2: Medical Cost Prediction: Multiple Linear Regression Analysis
 
 :large_blue_diamond: Project Objective:     
  - This project analyzes a public dataset of medical insurance costs from Kaggle to identify the key factors that drive expenses.
