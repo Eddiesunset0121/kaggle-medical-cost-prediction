@@ -12,7 +12,7 @@ Key Skills & Tools
  - Core Competencies: Exploratory Data Analysis (EDA), Feature Engineering (Log Transforms, Interaction & Polynomial Terms), Predictive Modeling, Model Diagnostics.
 
 Analysis & Key Findings
-The analysis involved EDA, hypothesis testing, and an iterative model-building process to achieve the most accurate and reliable results.
+ - The analysis involved EDA, hypothesis testing, and an iterative model-building process to achieve the most accurate and reliable results.
 
 Foundational Analysis & Outlier Investigation:
  - A two-sample t-test confirmed that smokers have significantly higher medical charges than non-smokers (p < 0.001), establishing smoking as the most critical predictive variable.
