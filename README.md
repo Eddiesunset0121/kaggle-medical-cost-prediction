@@ -1,5 +1,7 @@
 # Project 2: Medical Cost Prediction: Multiple Linear Regression Analysis
 
+![medical_cost_prediction](https://github.com/user-attachments/assets/0623f17e-82b3-49d3-8475-771a205ae214)
+
 :large_blue_diamond: Project Objective:     
  - This project analyzes a public dataset of medical insurance costs from Kaggle to identify the key factors that drive expenses.
  - The goal is to build an accurate and interpretable regression model that can predict a person's annual insurance charges based on their demographic and health-related attributes.
